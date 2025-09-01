@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\SimpleInheritance\Loon_SimpleInheritance\Loon_SimpleInheritance\bin\Debug\Loon_SimpleInheritance.exe.config
+C:\Users\ACT-STUDENT\Desktop\SimpleInheritance\Loon_SimpleInheritance\Loon_SimpleInheritance\bin\Debug\Loon_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Desktop\SimpleInheritance\Loon_SimpleInheritance\Loon_SimpleInheritance\bin\Debug\Loon_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\SimpleInheritance\Loon_SimpleInheritance\Loon_SimpleInheritance\obj\Debug\Loon_SimpleInheritance.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\SimpleInheritance\Loon_SimpleInheritance\Loon_SimpleInheritance\obj\Debug\Loon_SimpleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\SimpleInheritance\Loon_SimpleInheritance\Loon_SimpleInheritance\obj\Debug\Loon_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Desktop\SimpleInheritance\Loon_SimpleInheritance\Loon_SimpleInheritance\obj\Debug\Loon_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\SimpleInheritance\Loon_SimpleInheritance\Loon_SimpleInheritance\obj\Debug\Loon_SimpleInheritance.exe.config
